@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
@@ -15,4 +16,23 @@
         android:icon="@drawable/about_icon"
         android:title="About Us"/>
 
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home_icon"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_food"
+        android:icon="@drawable/pets_icon"
+        android:title="Jelajahi Kucing"/>
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/about_icon"
+        android:title="About Us"/>
+
+>>>>>>> 980b1552247aa4fb9e1e22e036ef90b1e2645e69
 </menu>
